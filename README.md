@@ -269,4 +269,4 @@ This repository serves as the official landing page for CamScanner. The software
 **Get the most recent version of CamScanner today!**
 
 ---
-**Last updated:** 2026-09-18 12:29:45 UTC
+**Last updated:** 2026-09-18 16:49:03 UTC
